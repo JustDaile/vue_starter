@@ -1,4 +1,4 @@
-# budget
+# Vue3 Starter
 
 ## Project setup
 ```
